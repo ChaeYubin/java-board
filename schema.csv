@@ -1,0 +1,8 @@
+"board_db","board","id","NO","bigint(20)","PRI","auto_increment"
+"board_db","board","title","NO","varchar(50)","",""
+"board_db","board","contents","NO","text","",""
+"board_db","board","use_yn","NO","varchar(1)","",""
+"board_db","board","register_id","NO","bigint(20)","",""
+"board_db","board","register_time","NO","datetime","",""
+"board_db","board","modify_id","NO","bigint(20)","",""
+"board_db","board","modify_time","YES","datetime","",""
